@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('personal-data.css');
+@import url('list.css');
+
+body {
+    font-family: Roboto;
+    font-size: 62.5%;
+    background-image: url('https://media.giphy.com/media/x00hEOa6yV8AYQwnTN/giphy.gif');
+}
